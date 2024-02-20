@@ -1,0 +1,7 @@
+name: music
+displayName: Zerattel's Gaydustry
+author: Zerattel
+description: "Test version of gachimuchi cliend Mindustry mod by Zerattel."
+version: 1.0
+minGameVersion: 136.1
+hidden: true
